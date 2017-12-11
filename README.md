@@ -1,2 +1,2 @@
 # GenericRestClient
-Creating rest generic rest client
+Creating rest client having generic methods for consuming rest web service
